@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, my name is Denis Tantsev! I develop something ). And this is my blog on GitHub. 
 
-### More Information
+### About this blog
 
-A place to include any other types of information that you'd like to include about yourself.
+I started this blog just to save some information about some strange and interesting things I make, and sometimes I can't remember how I made it :). But if this info will be helpful for someone else - I'll be happy.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[denis.tantsev@gmail.com](mailto:denis.tantsev@gmail.com)
